@@ -4,15 +4,7 @@
 
 把「课表 / 成绩 / 考试 / 实验室 / 校园生活服务」收进一个 App 的 Android 客户端。数据直连学校既有系统，账号只存在你自己手机里。
 
-| 今日看板 | 课表 | 成绩 |
-| --- | --- | --- |
-| ![今日看板](screenshots/01-dashboard.png) | ![课表](screenshots/03-schedule.png) | ![成绩查询](screenshots/04-grades.png) |
-
-| 考试安排 | 生活服务 | 通知与提醒 |
-| --- | --- | --- |
-| ![考试安排](screenshots/05-exams.png) | ![生活服务](screenshots/02-drawer.png) | ![设置](screenshots/06-settings.png) |
-
-> 截图取自真机，个人信息（姓名等）已打码。
+> 界面预览整理中（截图统一用模拟器 + 演示数据重拍，不含任何真实个人信息）。
 
 ## 功能
 
